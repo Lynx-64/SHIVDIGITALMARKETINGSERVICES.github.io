@@ -163,7 +163,7 @@ body {
 }
 #gtco-main-nav::before {
   position: absolute;
-  content: "X";
+  content: "";
   height: 590px;
   width: 930px;
   background-image: -webkit-linear-gradient(to right, #e8eefc, #e6fafe);
